@@ -1,0 +1,11 @@
+
+#first-1{
+    background-color: aqua;
+    display: inline-block;
+    width:49%
+}
+#second-1{
+    background-color: yellow;
+    display: inline-block;
+    width: 49%;
+}
